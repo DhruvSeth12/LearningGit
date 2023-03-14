@@ -12,4 +12,4 @@
 6.	git commit -m ”comment” - The git commit command captures a snapshot of the project's currently staged changes.
 
 7.	git log - Git log is a utility tool to review and read a history of everything that happens to a repository. Multiple options can be used with a git log to make history more specific. Generally, the git log is a record of commits.
-8   git push - git push will push all the changes to the remote repository.
+8   git push - The git push command is used to upload local repository content to a remote repository. 
